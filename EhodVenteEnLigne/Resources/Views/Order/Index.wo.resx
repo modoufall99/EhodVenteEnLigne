@@ -117,13 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="LanguageEnglish" xml:space="preserve">
-    <value>Anglais</value>
+  <data name="Address" xml:space="preserve">
+    <value>Deukkouway</value>
   </data>
-  <data name="LanguageFrench" xml:space="preserve">
-    <value>Français</value>
+  <data name="City" xml:space="preserve">
+    <value>Deuk</value>
   </data>
-  <data name="LanguageWolof" xml:space="preserve">
-    <value>Wolof</value>
+  <data name="CompleteOrder" xml:space="preserve">
+    <value>Diekhal Sama Commande</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>Rew</value>
+  </data>
+  <data name="EnterDetails" xml:space="preserve">
+    <value>Niongui Takhawou sissa commande !</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Fo nek</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Tour</value>
+  </data>
+  <data name="OrderTitle" xml:space="preserve">
+    <value>Bindall Si Bindiway bi</value>
+  </data>
+  <data name="ShipSoon" xml:space="preserve">
+    <value>Dinnagne ko indi si lou gaw.</value>
+  </data>
+  <data name="ShipTo" xml:space="preserve">
+    <value>Yonné ko</value>
+  </data>
+  <data name="Zip" xml:space="preserve">
+    <value>Numero deuk bi</value>
   </data>
 </root>

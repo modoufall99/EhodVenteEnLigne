@@ -117,13 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="LanguageEnglish" xml:space="preserve">
-    <value>Anglais</value>
+  <data name="Average" xml:space="preserve">
+    <value>Moyenne</value>
   </data>
-  <data name="LanguageFrench" xml:space="preserve">
-    <value>Français</value>
+  <data name="Checkout" xml:space="preserve">
+    <value>Yonnél commande bi</value>
   </data>
-  <data name="LanguageWolof" xml:space="preserve">
-    <value>Wolof</value>
+  <data name="ContinueShopping" xml:space="preserve">
+    <value>Aggalé Dieund mi</value>
+  </data>
+  <data name="Item" xml:space="preserve">
+    <value>Ndiaye mi</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>Ndieuck bi</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>Lim bi</value>
+  </data>
+  <data name="Remove" xml:space="preserve">
+    <value>Dindiko</value>
+  </data>
+  <data name="Subtotal" xml:space="preserve">
+    <value>Guennwalll</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Lepp</value>
+    <comment>Lepp</comment>
+  </data>
+  <data name="YourCart" xml:space="preserve">
+    <value>Sama Ndougg</value>
   </data>
 </root>
